@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center">
+<div align="center flex flex-col">
 
 <!-- Animated Header -->
 
