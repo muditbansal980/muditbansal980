@@ -127,7 +127,7 @@
 
 <div align="center" >
 
-![SIH Badge]([https://img.shields.io/badge/Smart%20India%20Hackathon-Selected%20%F0%9F%8F%86-gold?style=for-the-badge&logo=trophy&logoColor=white](https://drive.google.com/file/d/1LF2g6nNarfN93o6SW1MyzKY1ekJtc12i/view))
+![SIH Badge]([https://drive.google.com/file/d/1LF2g6nNarfN93o6SW1MyzKY1ekJtc12i/view])
 
 </div>
 
