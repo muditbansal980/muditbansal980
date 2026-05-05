@@ -36,19 +36,9 @@
 -----
 
 ## 👨‍💻 About Me
-
-```ts
-const mudit = {
-  name: "Mudit Bansal",
-  location: "Delhi, India 🇮🇳",
-  education: "B.Tech Mechanical Engineering @ DTU (2025–2029)",
-  role: "Backend Engineer @ Nestify Campus",
-  focus: ["Backend Systems", "Full-Stack Web Dev", "API Design"],
-  currentlyLearning: ["System Design", "Cloud Architecture", "DevOps"],
-  achievement: "Selected in Smart India Hackathon (SIH) 🏆",
-  funFact: "I write backend code but can style frontends too 😄"
-};
-```
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1a1a2e&height=160&section=header&text=Mudit%20Bansal&fontSize=52&fontColor=e2e8f0&fontAlignY=55&animation=blinking&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DTU%20Delhi&descAlignY=78&descSize=14&descColor=94a3b8" width="100%"/><br/><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Crafting+robust+backend+systems+with+TypeScript;Building+full-stack+products+with+Next.js;Interested+in+distributed+systems+%26+system+design;Open+to+collaborations+%26+interesting+projects" alt="Typing SVG"/>
+</a><br/><br/>
 
 -----
 
