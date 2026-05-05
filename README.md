@@ -39,7 +39,7 @@
   <img src="https://fonts.gstatic.com/s/i/short-expiry/materialicons/v17/person/v6/24px.svg" width="0"/>
   &nbsp;About Me
 </h2><p align="center" style="max-width:720px; margin:auto; font-family:'Segoe UI', sans-serif; font-size:15.5px; line-height:1.85; color:#cbd5e1;">
-  I'm a first-year <strong>B.Tech student at Delhi Technological University</strong> and a working <strong>Backend Engineer at Nestify Campus</strong>. 
+  I'm a first-year <strong>B.Tech student at Delhi Technological University</strong>. 
   I build production-grade web applications with a strong focus on clean architecture, type-safety, and real-world impact — primarily using <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>PostgreSQL</strong>.
   <br/><br/>
   My flagship project — a <strong>Complaint Redressal System</strong> — is a full-stack platform featuring RBAC, real-time Server-Sent Events, Zod validation, and type-safe database access via Kysely and Prisma. I was also selected in the <strong>Internal Round of Smart India Hackathon (SIH)</strong> at the college level.
