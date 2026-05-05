@@ -125,14 +125,13 @@
 
 ## 🏆 Achievements
 
-<div align="center" >
-
-![SIH Badge]([https://drive.google.com/file/d/1LF2g6nNarfN93o6SW1MyzKY1ekJtc12i/view])
-
+<div align="center">
+  <a href="https://drive.google.com/file/d/1LF2g6nNarfN93o6SW1MyzKY1ekJtc12i/view" target="_blank">
+    <img src="https://img.shields.io/badge/SIH-Selected-orange?style=for-the-badge&logo=data:image/png;base64,..." alt="SIH Badge"/>
+  </a>
 </div>
 
 ✅ Selected in the **Internal Round of Smart India Hackathon (SIH)** at college level
-
 -----
 
 ## 📊 GitHub Stats
