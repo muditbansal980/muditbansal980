@@ -35,10 +35,17 @@
 
 -----
 
-## 👨‍💻 About Me
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1a1a2e&height=160&section=header&text=Mudit%20Bansal&fontSize=52&fontColor=e2e8f0&fontAlignY=55&animation=blinking&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DTU%20Delhi&descAlignY=78&descSize=14&descColor=94a3b8" width="100%"/><br/><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Crafting+robust+backend+systems+with+TypeScript;Building+full-stack+products+with+Next.js;Interested+in+distributed+systems+%26+system+design;Open+to+collaborations+%26+interesting+projects" alt="Typing SVG"/>
-</a><br/><br/>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/i/short-expiry/materialicons/v17/person/v6/24px.svg" width="0"/>
+  &nbsp;About Me
+</h2><p align="center" style="max-width:720px; margin:auto; font-family:'Segoe UI', sans-serif; font-size:15.5px; line-height:1.85; color:#cbd5e1;">
+  I'm a first-year <strong>B.Tech student at Delhi Technological University</strong> and a working <strong>Backend Engineer at Nestify Campus</strong>. 
+  I build production-grade web applications with a strong focus on clean architecture, type-safety, and real-world impact — primarily using <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>PostgreSQL</strong>.
+  <br/><br/>
+  My flagship project — a <strong>Complaint Redressal System</strong> — is a full-stack platform featuring RBAC, real-time Server-Sent Events, Zod validation, and type-safe database access via Kysely and Prisma. I was also selected in the <strong>Internal Round of Smart India Hackathon (SIH)</strong> at the college level.
+  <br/><br/>
+  I'm currently deepening my understanding of <strong>system design</strong>, <strong>distributed systems</strong>, and <strong>cloud infrastructure</strong> — and I'm always open to meaningful collaborations and interesting problems.
+</p><br/>
 
 -----
 
