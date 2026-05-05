@@ -16,3 +16,15 @@
     <img src="https://img.shields.io/badge/GitHub-muditbansal980-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p></div>
+
+About Me
+const mudit = {
+  name: "Mudit Bansal",
+  location: "Delhi, India 🇮🇳",
+  education: "B.Tech Mechanical Engineering @ DTU (2025–2029)",
+  role: "Backend Engineer @ Nestify Campus",
+  focus: ["Backend Systems", "Full-Stack Web Dev", "API Design"],
+  currentlyLearning: ["System Design", "Cloud Architecture", "DevOps"],
+  achievement: "Selected in Smart India Hackathon (SIH) 🏆",
+  funFact: "I write backend code but can style frontends too 😄"
+};
