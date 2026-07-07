@@ -39,10 +39,10 @@
   <img src="https://fonts.gstatic.com/s/i/short-expiry/materialicons/v17/person/v6/24px.svg" width="0"/>
   &nbsp;About Me
 </h2><p align="center" style="max-width:720px; margin:auto; font-family:'Segoe UI', sans-serif; font-size:15.5px; line-height:1.85; color:#cbd5e1;">
-  I'm a first-year <strong>B.Tech student at Delhi Technological University</strong>. 
+  I'm a <strong>B.Tech student at Delhi Technological University(2025-2029)</strong>. 
   I build production-grade web applications with a strong focus on clean architecture, type-safety, and real-world impact — primarily using <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>PostgreSQL</strong>.
   <br/><br/>
-  My flagship project — a <strong>Complaint Redressal System</strong> — is a full-stack platform featuring RBAC, real-time Server-Sent Events, Zod validation, and type-safe database access via Kysely and Prisma. I was also selected in the <strong>Internal Round of Smart India Hackathon (SIH)</strong> at the college level.
+  My flagship project — <strong>Athlantics</strong> — is a full-stack platform featuring RBAC, real-time Server-Sent Events, Zod validation, and type-safe database access via Kysely and Prisma. I was also selected in the <strong>Internal Round of Smart India Hackathon (SIH)</strong> at the college level.
   <br/><br/>
   I'm currently deepening my understanding of <strong>system design</strong>, <strong>distributed systems</strong>, and <strong>cloud infrastructure</strong> — and I'm always open to meaningful collaborations and interesting problems.
 </p><br/>
@@ -84,9 +84,9 @@
 
 ## 🚀 Featured Project
 
-### 🗂️ Complaint Redressal System
+### 🗂️ Athlantics
 
-> *A full-stack platform that bridges citizens and admins for seamless complaint management*
+> *A full-stack platform that helps players to be recognized in society*
 
 |Feature       |Details                            |
 |--------------|-----------------------------------|
