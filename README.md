@@ -1,38 +1,4 @@
-<div align="center">
-
-<img src="./assets/robot-namaste.gif" width="180"/>
-
-<br>
-
-<img src="./assets/code-face.png" width="220" style="border-radius:50%;"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mudit%20Bansal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Founder%20@%20Athlantics&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=🙏+Namaste!+Welcome+to+my+GitHub...;Backend+Engineer+%40+Nestify+Campus;Founder+of+Athlantics;Building+AI-powered+Sports+Technology;I+love+building+production-ready+software+🚀"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=muditbansal980&label=Visitors&color=7c3aed&style=for-the-badge"/>
-
-<a href="https://linkedin.com/in/muditbansal2008">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:muditb512@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/muditbansal980">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
+#Hi there 
 <div align="center flex flex-col">
 
 <!-- Animated Header -->
